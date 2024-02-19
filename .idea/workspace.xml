@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe8e45f9-6bd7-4f2d-891d-6180e7dffee3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/blackjackEnv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/blackjack_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/font/Minecraft.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/C2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/C3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/C4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/C5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/C6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/C7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/C8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/C9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/CA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/CJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/CK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/CQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/CT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/Card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/D2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/D3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/D4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/D5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/D6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/D7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/D8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/D9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/DA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/DJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/DK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/DQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/DT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/H2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/H3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/H4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/H5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/H6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/H7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/H8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/H9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/HA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/HJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/HK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/HQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/HT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/S2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/S3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/S4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/S5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/S6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/S7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/S8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/S9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/SA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/SJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/SK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/SQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/ST.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack/envs/img/ice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2aXUtWfL35K8zuskVhRbV3GD7VS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.blackjack_env.executor&quot;: &quot;Run&quot;,
+    &quot;Python.setup.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tobia\PycharmProjects\blackjackEnv\blackjack\envs\font" />
+      <recent name="C:\Users\tobia\PycharmProjects\blackjackEnv\blackjack\envs" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe8e45f9-6bd7-4f2d-891d-6180e7dffee3" name="Changes" comment="" />
+      <created>1704464633054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704464633054</updated>
+      <workItem from="1704464636578" duration="1297000" />
+      <workItem from="1704883050065" duration="1794000" />
+      <workItem from="1704885065276" duration="82000" />
+      <workItem from="1704885238888" duration="156000" />
+      <workItem from="1704969241599" duration="34000" />
+      <workItem from="1704969793909" duration="413000" />
+      <workItem from="1704970340694" duration="615000" />
+      <workItem from="1704971141473" duration="658000" />
+      <workItem from="1705407344510" duration="191000" />
+      <workItem from="1705407968496" duration="1000000" />
+      <workItem from="1705585632435" duration="91000" />
+      <workItem from="1705917731054" duration="517000" />
+      <workItem from="1706263597046" duration="1402000" />
+      <workItem from="1706535184760" duration="982000" />
+      <workItem from="1706536285635" duration="27000" />
+      <workItem from="1706536420067" duration="126000" />
+      <workItem from="1706536628847" duration="33000" />
+      <workItem from="1706536891876" duration="2955000" />
+      <workItem from="1706540038591" duration="35000" />
+      <workItem from="1706540570805" duration="138000" />
+      <workItem from="1706613085080" duration="2143000" />
+      <workItem from="1706615687705" duration="30000" />
+      <workItem from="1706616865406" duration="763000" />
+      <workItem from="1706695389011" duration="257000" />
+      <workItem from="1707915626767" duration="798000" />
+      <workItem from="1707987151089" duration="123000" />
+      <workItem from="1707987374558" duration="142000" />
+      <workItem from="1707989662528" duration="48000" />
+      <workItem from="1707991122781" duration="39000" />
+      <workItem from="1707991183597" duration="200000" />
+      <workItem from="1707991665664" duration="87000" />
+      <workItem from="1708337584895" duration="37000" />
+      <workItem from="1708340223359" duration="328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/blackjackEnv$blackjack_env.coverage" NAME="blackjack_env Coverage Results" MODIFIED="1704883860061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blackjack/envs" />
+    <SUITE FILE_PATH="coverage/blackjackEnv$setup.coverage" NAME="setup Coverage Results" MODIFIED="1704465240771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
